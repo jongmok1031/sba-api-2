@@ -1,0 +1,17 @@
+MVC 패턴 잡기
+
+Model : DTO(data transfer object) + DAO(data access object)
+Service : Business Login (Algorithm)
+
+viewer:
+
+Controller : RESTful 방식으로 React Axios 로 통신
+
+ai calc 에서 사칙연산 나누는 이유
+머신 mdoel-* 은 history를 기억하는 기능
+5+2 = 7
+5+* = *
+
+5 덧셈연산을 제안
+7 * ...
+7 곱셈연산을 제안
